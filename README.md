@@ -30,7 +30,9 @@ This Tampermonkey script aims to provide a convenient lock button for browser vi
 
 ### 1.4 Usage guide
 - When in full-screen mode, a gray circular button will appear on the left side.
+  
   <img src="fig1.png" width="500">
+  
 - After clicking the button, it will turn green. At this point, the screen becomes locked. To unlock, please click the button again.
 
   <img src="fig2.png" width="500">
@@ -67,8 +69,11 @@ Contributions and feedback are welcome! Please use GitHub Issues and Pull Reques
 
 ### 2.4 使用说明
 - 在视频全屏的时候，左方会出现一个灰色的圆形按钮。
+  
 <img src="fig1.png" width="500">
+
 - 点击该按钮后，该按键变成绿色。此时视频被锁定。需要解锁请重新点击该按键。
+
 <img src="fig2.png" width="500">
 
 
