@@ -12,6 +12,7 @@ This Tampermonkey script aims to provide a convenient lock button for browser vi
 - Clicking the button will lock the screen, preventing accidental clicks that may disrupt video playback; the button turns green.
 - Click the button again to unlock the screen and restore touch functionality.
 - The button automatically hides when exiting fullscreen video mode.
+- Under full-screen conditions, the buttons will automatically disappear after 3 seconds of inactivity on the screen. They will reappear upon further interaction.
 
 ### 1.2 Supported Websites
 - Youku (youku.com)
@@ -50,6 +51,7 @@ Contributions and feedback are welcome! Please use GitHub Issues and Pull Reques
 - 点击按钮将锁定屏幕，防止点击干扰视频播放，按钮变为绿色。
 - 再次点击按钮解锁屏幕，恢复点击功能。
 - 在退出视频全屏模式时，按钮自动隐藏。
+- 在全屏条件下，屏幕无操作3秒后，将自动隐藏按钮。再次操作后，按钮出现。
 
 ### 2.2 支持的网站
 - 优酷网（youku.com）
