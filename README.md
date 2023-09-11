@@ -1,4 +1,9 @@
-# 油猴脚本：视频播放锁屏工具（Tampermonkey Script: Video Player Lock Tool）
+# 油猴脚本：视频播放控制工具（Tampermonkey Script: Video Player Control Tool）
+
+__视频播放全屏锁屏防误触，同时提供视频控制（快进，暂停，后退）__
+
+__Full-screen lock screen to prevent accidental touch during video playback, while providing video controls (fast forward, pause, rewind).__
+
 
 ## Language / 语言
 - [English](#english)
